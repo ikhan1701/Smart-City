@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+node_modules
+.env
+.git
+build
+dist
+venv
+.DS_Store
+vision-dashboard
+backend2.py
+yolov8n.pt
